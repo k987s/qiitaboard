@@ -1,0 +1,39 @@
+@main: #55c500;
+.square_btn {
+  background: @main;
+  color: #ececec;
+  display: inline-block;
+  font-weight: bold;
+  padding: 0.25em 0.5em;
+  position: relative;
+  &:hover {
+    background-color: @main + 32;
+    color: #fff;
+  }
+}
+a {
+  text-decoration: none;
+}
+body {
+  background-color: #f6f6f6;
+  color: #333;
+  padding: 16px;
+}
+div#home {
+  margin: 16px;
+  .content {
+    background-color: #fff;
+    border-bottom: 1px solid #e8e8e8;
+    display: flex;
+    padding: 16px;
+  }
+  a {
+    color: inherit;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+h1.logo:first-letter {
+  color: @main;
+}
