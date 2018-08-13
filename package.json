@@ -1,6 +1,6 @@
 {
-  "name": "monaca-template-minimum",
-  "displayName": "Monaca Template Minimum",
+  "name": "Qiitaboard",
+  "displayName": "Qiitaboard",
   "dependencies": {
     "cordova-custom-config": "5.0.2",
     "cordova-plugin-splashscreen": "5.0.1",
