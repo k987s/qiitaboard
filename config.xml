@@ -74,11 +74,11 @@
     </config-file>
   </platform>
   <platform name="android">
-    <icon src="/res/android/mipmap-mdpi/ic_launcher.png" density="mdpi"/>
-    <icon src="/res/android/mipmap-hdpi/ic_launcher.png" density="hdpi"/>
-    <icon src="/res/android/mipmap-xhdpi/ic_launcher.png" density="xhdpi"/>
-    <icon src="/res/android/mipmap-xxhdpi/ic_launcher.png" density="xxhdpi"/>
-    <icon src="/res/android/mipmap-xxxhdpi/ic_launcher.png" density="xxxhdpi"/>
+    <icon src="/res/android/icon/mipmap-mdpi/ic_launcher.png" density="mdpi"/>
+    <icon src="/res/android/icon/mipmap-hdpi/ic_launcher.png" density="hdpi"/>
+    <icon src="/res/android/icon/mipmap-xhdpi/ic_launcher.png" density="xhdpi"/>
+    <icon src="/res/android/icon/mipmap-xxhdpi/ic_launcher.png" density="xxhdpi"/>
+    <icon src="/res/android/icon/mipmap-xxxhdpi/ic_launcher.png" density="xxxhdpi"/>
     <splash src="/res/android/screen/splash-port-ldpi.9.png" density="port-ldpi"/>
     <splash src="/res/android/screen/splash-port-mdpi.9.png" density="port-mdpi"/>
     <splash src="/res/android/screen/splash-port-hdpi.9.png" density="port-hdpi"/>
